@@ -1,0 +1,14 @@
+.env
+.venv/
+.d_sber/
+.uv-cache/
+.langgraph_api/
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyc
+*.egg-info/
+*.db
+*.sqlite
+.cache/
