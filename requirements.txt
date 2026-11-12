@@ -3,8 +3,3 @@ python-dotenv
 qdrant-client 
 langgraph
 openrouter
-vkbottle
-langchain-qdrant
-langchain-huggingface
-sentence-transformers
-aiogram
